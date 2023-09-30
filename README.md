@@ -7,6 +7,7 @@ I make things! Here's a few:
 - ⌨️ a [keyboard](https://ellie.wtf/my-planck-keyboard/)
 - 🦔 open source things at [PostHog](https://posthog.com)
 - 📝 sometimes I even make words, which you can scroll at [ellie.wtf](https://ellie.wtf)
+- 🏍️ a mastodon instance, [bikers.social](https://app.bikers.social)
 
 Otherwise, my interests include [motorcycles](https://instagram.com/ellie.bikes), [photography](https://instagram.com/shotbyellie), and just generally tinkering with things.
 
